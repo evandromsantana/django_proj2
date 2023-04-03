@@ -20,8 +20,9 @@ Clone o repositório para sua máquina local.
 Crie um ambiente virtual usando o virtualenv ou o venv.
 
 <hr />
+<h1>
   <strong style="color:#00AEEE">Ativo o ambiente virtual</strong>
-
+</h1>
 
 Instale como dependências usando:
 - pip install -r requirements.txt.
@@ -36,8 +37,9 @@ Abra o navegador e acesse:
 - http://127.0.0.1:8000/.
 
 <hr />
-
+<h1>
   <strong style="color:#00AEEE">Tecnologias utilizadas</strong>
+</h1>
 
 - Django
 - HTML
